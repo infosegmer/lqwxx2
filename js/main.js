@@ -12,13 +12,12 @@ const player = document.querySelector('.player'),
 const songs = [
 'Hensonn -  Sahara',
 'Phonk - черные глаза',
-'Phonk - гимн СССР',
+'HXVRMXN - XFF DREAM',
 'Mishashi Sensei - IN THE CLUB',
 'INCOMING',
 'LXST CXNTURY - AMNESIA',
 'DVRST - Dream Space',
 'АДЛИН - No love (slowed+reverb)',
-'HXVRMXN - XFF DREAM'
 ]
 
 
