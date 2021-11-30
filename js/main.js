@@ -17,7 +17,7 @@ const songs = [
 'INCOMING',
 'LXST CXNTURY - AMNESIA',
 'DVRST - Dream Space',
-'АДЛИН - No love (slowed+reverb)',
+'АДЛИН - No love (slowed+reverb)'
 ]
 
 
